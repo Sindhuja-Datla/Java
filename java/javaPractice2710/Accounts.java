@@ -1,4 +1,4 @@
-package javaPractice;
+package javaPractice2710;
 
 public class Accounts<T> {
 

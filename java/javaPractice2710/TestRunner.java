@@ -1,4 +1,4 @@
-package javaPractice;
+package javaPractice2710;
 
 import org.junit.runner.Result;  
 import org.junit.runner.JUnitCore;  

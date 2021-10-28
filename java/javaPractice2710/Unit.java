@@ -1,3 +1,4 @@
+package javaPractice2710;
 import static org.junit.Assert.*;
 import static org.junit.matchers.JUnitMatchers.*;
 

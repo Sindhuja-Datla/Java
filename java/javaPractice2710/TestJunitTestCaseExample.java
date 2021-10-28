@@ -1,4 +1,4 @@
-package javaPractice;
+package javaPractice2710;
 
 import static org.junit.Assert.assertEquals;  
 import org.junit.Test;  
