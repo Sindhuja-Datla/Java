@@ -1,7 +1,6 @@
-package javaPractice2710;
+package javaPractice;
 
-public class Accounts<T> {
-
+public class Account<T  > {
 	T obj;
 
 	public T getObj() {
@@ -11,9 +10,5 @@ public class Accounts<T> {
 	public void setObj(T obj) {
 		this.obj = obj;
 	}
-
-
-
-
 }
 

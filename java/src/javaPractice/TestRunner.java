@@ -1,11 +1,11 @@
-package javaPractice2710;
+package javaPractice;
 
 import org.junit.runner.Result;  
-import org.junit.runner.JUnitCore;  
-import org.junit.runner.notification.Failure;  
-	  
-	public class TestRunner {  
-	   public static void main(String[] args) {  
+import org.junit.runner.JUnitCore;
+import org.junit.runner.notification.Failure;
+
+public class TestRunner {
+	 public static void main(String[] args) {  
 	      Result result = JUnitCore.runClasses(TestJunitTestCaseExample.class);  
 	          
 	      for (Failure fail : result.getFailures()) {  
@@ -14,5 +14,4 @@ import org.junit.runner.notification.Failure;
 	          
 	      System.out.println(result.wasSuccessful());  
 	   }  
-	}    
-
+}
